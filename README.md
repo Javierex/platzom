@@ -11,7 +11,7 @@ Platzom es un idiome inventado para el [Curso de Fundamentos de JavaScript] (htt
 - Si la palabra original es un Palíndromo, ninguna regla anterionr cuenta y se devuelve la misma palabra intercalando mayusculas y minusculas
 
 
-##Instalación
+## Instalación
 
 ```
 npm install platzom
@@ -32,6 +32,6 @@ platzom("sometemos")//SoMeTeMoS
 ## Créditos
 - [Sacha Lifszyc](https://twitter.com/@slifszyc)
 
-##Licencia
+## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
